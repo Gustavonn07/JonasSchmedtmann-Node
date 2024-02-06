@@ -18,7 +18,7 @@ Nesse repositório irei guardar meus estudos do curso de Node e MongoDB (da <spa
 - Conseguir entender como usar <strong>Nodejs e MongoDB</strong>. 
 - Completar todas as aulas e exercícios. 
 - <strong>Não</strong> desistir no processo. 
-- Unidades concluidas <strong>(4/15)</strong>. 
+- Unidades concluidas <strong>(5/15)</strong>. 
 
 <hr>
 <table align='center'>
@@ -36,7 +36,7 @@ Nesse repositório irei guardar meus estudos do curso de Node e MongoDB (da <spa
   </tr>
   
   <tr align='center'>
-    <th colspan="2"><h2>Unidade 02 (07/08/2023)</h2>
+    <th colspan="2"><h2>Unidade 02</h2>
      <tr>
        <td><h3 align='center'>Resumo:</h3>
        <td> Foi criado uma aplicação em node chamada Node Farm.
@@ -64,7 +64,19 @@ Nesse repositório irei guardar meus estudos do curso de Node e MongoDB (da <spa
     <th colspan="2"><h2>Unidade 04</h2>
      <tr>
        <td><h3 align='center'>Resumo:</h3>
-       <td> Foi explicado como o Node.js funciona por baixo dos panos 
+       <td> Foi explicado como o Node.js funciona por baixo dos panos. 
+     </tr>
+     <tr>
+       <td><h3 align='center'>Tecnologias Estudadas:</h3>
+       <td align='center'> <img alt="Gustavo-NODE" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+     </tr> 
+  </tr>
+
+  <tr align='center'>
+    <th colspan="2"><h2>Unidade 05</h2>
+     <tr>
+       <td><h3 align='center'>Resumo:</h3>
+       <td> Foi feito uma revisão de Promises e async/await. 
      </tr>
      <tr>
        <td><h3 align='center'>Tecnologias Estudadas:</h3>

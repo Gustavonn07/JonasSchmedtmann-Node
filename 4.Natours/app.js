@@ -5,9 +5,13 @@ const userRouter = require('./routes/userRoutes');
 
 const app = express();
 
+if(process.env.NODE_ENV === 'development') {
+    app.use(morgan('dev'));
+}
+
 // Transforma os dados de JSON para objeto em javascript nas solitiações do tipo POST:
 app.use(express.json());
-app.use(morgan('dev'));
+app.use(express.static(`${__dirname}/public`))
 
 app.use((req, res, next) => {
     req.requestTime = new Date().toISOString();

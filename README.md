@@ -18,7 +18,7 @@ Nesse repositório irei guardar meus estudos do curso de Node e MongoDB (da <spa
 - Conseguir entender como usar <strong>Nodejs e MongoDB</strong>. 
 - Completar todas as aulas e exercícios. 
 - <strong>Não</strong> desistir no processo. 
-- Unidades concluidas <strong>(5/15)</strong>. 
+- Unidades concluidas <strong>(6/15)</strong>. 
 
 <hr>
 <table align='center'>
@@ -81,6 +81,18 @@ Nesse repositório irei guardar meus estudos do curso de Node e MongoDB (da <spa
      <tr>
        <td><h3 align='center'>Tecnologias Estudadas:</h3>
        <td align='center'> <img alt="Gustavo-NODE" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+     </tr> 
+  </tr>
+
+  <tr align='center'>
+    <th colspan="2"><h2>Unidade 06</h2>
+     <tr>
+       <td><h3 align='center'>Resumo:</h3>
+       <td> Foi iniciado o projeto da API Natours usando controllers e routes do express.js
+     </tr>
+     <tr>
+       <td><h3 align='center'>Tecnologias Estudadas:</h3>
+       <td align='center'> <img alt="Gustavo-NODE" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> <img alt="Gustavo-EXPRESS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
      </tr> 
   </tr>
 
